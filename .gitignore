@@ -1,0 +1,16 @@
+# Java
+target/
+*.log
+*.class
+
+# Maven
+.mvn/
+.idea/
+
+# Node
+node_modules/
+dist/
+.env
+
+# Docker
+*.dockerfile
